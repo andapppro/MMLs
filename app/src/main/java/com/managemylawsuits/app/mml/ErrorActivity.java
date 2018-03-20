@@ -21,6 +21,6 @@ public class ErrorActivity extends AppCompatActivity {
             public void onClick(View view) {
                 finish();
             }
-        });
+        }); 
     }
 }
